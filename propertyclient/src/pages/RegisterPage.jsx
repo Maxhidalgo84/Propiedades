@@ -44,7 +44,7 @@ export const RegisterPage = () => {
           <form className="space-y-6" onSubmit={onSubmit} method="POST">
                       <div>
                           <label htmlFor="email" className="block text-sm font-medium leading-6 text-gray-900">
-                              Username
+                              Username:
                           </label>
                           <div className="mt-2">
                               <input
